@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\asset_manager",
+    "\\src\\asset_manager\\config",
+    "\\src\\asset_manager\\model",
+    "\\src\\asset_manager\\view",
+    "\\src\\commands",
+    "\\src\\commands\\view"
+  ],
+  "SelectedNode": "\\src\\asset_manager\\view\\AssetImageView.js",
+  "PreviewInSolutionExplorer": false
+}
